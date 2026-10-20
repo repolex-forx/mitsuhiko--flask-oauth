@@ -1,0 +1,11 @@
+{
+  "org": "mitsuhiko",
+  "repo": "flask-oauth",
+  "versions": [
+    {
+      "commit": "af6432621a9add5e55b0d7638e1380f66f3d4ed0",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:30:11.934239+00:00"
+    }
+  ]
+}
