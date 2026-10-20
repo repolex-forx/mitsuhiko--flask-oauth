@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mitsuhiko/flask-oauth/commit/af6432621a9add5e55b0d7638e1380f66f3d4ed0",
       "git:hexsha": "af6432621a9add5e55b0d7638e1380f66f3d4ed0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T10:30:11.933781+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mitsuhiko/flask-oauth/commit/5b7e53c7579c0babfaf710ee221ab158600cca4d",
